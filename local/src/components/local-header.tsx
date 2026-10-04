@@ -25,8 +25,8 @@ function buildNewReleaseBadge(status: LatestReleaseStatus | null): HeaderBrandBa
     label: "new",
     href: releaseUrl,
     external: true,
-    title: latestTag ? `聚合订阅 ${latestTag} 已发布` : "聚合订阅有新版本",
-    ariaLabel: latestTag ? `聚合订阅 ${latestTag} 已发布` : "聚合订阅有新版本",
+    title: latestTag ? `SubTurbo ${latestTag} 已发布` : "SubTurbo 有新版本",
+    ariaLabel: latestTag ? `SubTurbo ${latestTag} 已发布` : "SubTurbo 有新版本",
   };
 }
 

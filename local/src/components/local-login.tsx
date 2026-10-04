@@ -99,9 +99,9 @@ export function LocalLogin() {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2">
-            <Image src="/logo.png" alt="聚合订阅" width={64} height={64} className="rounded-2xl shadow-lg shadow-blue-500/25" />
+            <Image src="/logo.png" alt="SubTurbo" width={64} height={64} className="rounded-2xl shadow-lg shadow-blue-500/25" />
           </Link>
-          <h1 className="text-2xl font-bold mt-4 text-fg">欢迎使用聚合订阅</h1>
+          <h1 className="text-2xl font-bold mt-4 text-fg">欢迎使用 SubTurbo</h1>
           <p className="text-fg-50 mt-2">{setupRequired ? "初始化本地管理员账号" : "登录以使用订阅管理功能"}</p>
         </div>
 

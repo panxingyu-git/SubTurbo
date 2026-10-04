@@ -1,6 +1,6 @@
-export const SUBBOOST_SITE_NAME = "聚合订阅";
+export const SUBBOOST_SITE_NAME = "SubTurbo";
 
-export const SUBBOOST_PRODUCT_TITLE = "聚合订阅 - Clash 订阅转换与管理服务";
+export const SUBBOOST_PRODUCT_TITLE = "SubTurbo - Clash 订阅转换与管理服务";
 
 export const SUBBOOST_PRODUCT_DESCRIPTION =
   "Clash 订阅转换、生成与管理工具，支持链式代理、智能分流、多协议和多订阅聚合。";
@@ -23,7 +23,7 @@ export const SUBBOOST_KEYWORDS = [
   "智能分流",
   "订阅聚合",
   "代理配置",
-  "聚合订阅",
+  "SubTurbo",
   "Clash 配置",
   "多订阅管理",
 ];
